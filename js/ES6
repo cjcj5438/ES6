@@ -1,4 +1,4 @@
-ES6核心语法
+ES6核心语法123
 //1,默认参数
 var link = function(height = 50, color = 'red', url = 'http://azat.co') {
   console.log(height)
