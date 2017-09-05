@@ -1,0 +1,8 @@
+ES6核心语法
+//1,默认参数
+var link = function(height = 50, color = 'red', url = 'http://azat.co') {
+  console.log(height)
+};
+//2,Template Literals（模板对象） in ES6
+var name = `Your name is ${first} ${last}. `;
+var url = `http://localhost:3000/api/messages/${id}`;
